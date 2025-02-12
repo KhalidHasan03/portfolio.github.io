@@ -9,8 +9,8 @@ It's a fully dynamic personal portfolio website.I use raw php for this site . Yo
 * for front end part go to 'http://localhost/personal_portfolio/' and for backend go to 'http://localhost/personal_portfolio/admin/'
 * if you find any bug,don't forget to notify me .
 #### for login admin part
-* username : rakib@gmail.com
-* password : asdF1234
+* username : khs@gmail.com
+* password : 1234
 
 
 
@@ -18,7 +18,7 @@ It's a fully dynamic personal portfolio website.I use raw php for this site . Yo
 
 ### Screenshoots
 #### front end
-![](https://raw.githubusercontent.com/crrakib5/Dynamic-Portfolio-With-Php-and-Bootstrap/master/screenshots/localhost_personal_portfolio_%20(1).png)
+![](https://raw.githubusercontent.com/crrakib5/Dynamic-Portfolio-With-Php-and-Bootstrap/master/screenshots/index.jpeg)
 #### backend
 ![](https://raw.githubusercontent.com/crrakib5/Dynamic-Portfolio-With-Php-and-Bootstrap/master/screenshots/localhost_personal_portfolio_login.php.png)
 ![](https://raw.githubusercontent.com/crrakib5/Dynamic-Portfolio-With-Php-and-Bootstrap/master/screenshots/localhost_personal_portfolio_admin_index.php.png)
