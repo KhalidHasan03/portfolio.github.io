@@ -18,7 +18,7 @@ It's a fully dynamic personal portfolio website.I use raw php for this site . Yo
 
 ### Screenshoots
 #### front end
-![](https://raw.githubusercontent.com/crrakib5/Dynamic-Portfolio-With-Php-and-Bootstrap/master/screenshots/index.jpeg)
+![](https://github.com/Pix3lPirate/portfolio.github.io/blob/747f1a38a46a3a8730b543405aa063ba6f8146f5/index.jpeg)
 #### backend
 ![](https://raw.githubusercontent.com/crrakib5/Dynamic-Portfolio-With-Php-and-Bootstrap/master/screenshots/localhost_personal_portfolio_login.php.png)
 ![](https://raw.githubusercontent.com/crrakib5/Dynamic-Portfolio-With-Php-and-Bootstrap/master/screenshots/localhost_personal_portfolio_admin_index.php.png)
