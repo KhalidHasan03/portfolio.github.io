@@ -32,7 +32,7 @@ require_once "login_val.php";
     <body class="account-pages">
 
         <!-- Begin page -->
-        <div class="accountbg" style="background: url('admin/assets/images/bg-1.jpg');background-size: cover;background-position: center;"></div>
+        <div class="accountbg" style="background: url('admin/assets/images/bg-3.jpg');background-size: cover;background-position: center;"></div>
 
         <div class="wrapper-page account-page-full">
 
