@@ -6,7 +6,7 @@ It's a fully dynamic personal portfolio website.I use raw php for this site . Yo
 * download or clone this project
 * create a database and name it 'personal_portfolio'
 * upload personal_portfolio.sql in database
-* for front end part go to 'http://localhost/personal_portfolio/' and for backend go to 'http://localhost/personal_portfolio/admin/'
+* for front end part go to 'http://localhost/other_portfolio/' and for backend go to 'http://localhost/other_portfolio/admin/'
 * if you find any bug,don't forget to notify me .
 #### for login admin part
 * username : khs@gmail.com
