@@ -21,7 +21,7 @@ It's a fully dynamic personal portfolio website.I use raw php for this site . Yo
 ![](https://github.com/KhalidHasan03/portfolio.github.io/blob/c298eb93b2439ac7267851d1c2652f1a1cf5ddab/localhost_other_portfolio_other_portfolio_.png)
 #### backend
 ![](https://raw.githubusercontent.com/crrakib5/Dynamic-Portfolio-With-Php-and-Bootstrap/master/screenshots/localhost_personal_portfolio_login.php.png)
-![](https://github.com/Pix3lPirate/portfolio.github.io/blob/110e8e10f4f7907cadbe238757b0d7b45c8f3b1a/Screenshot_14-2-2025_12948_localhost.jpeg)
+![](https://github.com/KhalidHasan03/portfolio.github.io/blob/40881d6b8adfac2e2ff6c23434dcad99d76572bf/localhost_other_portfolio_other_portfolio_admin_index.php.png)
 ![](https://github.com/Pix3lPirate/portfolio.github.io/blob/110e8e10f4f7907cadbe238757b0d7b45c8f3b1a/Screenshot_14-2-2025_13126_localhost.jpeg)
 ![](https://github.com/Pix3lPirate/portfolio.github.io/blob/110e8e10f4f7907cadbe238757b0d7b45c8f3b1a/Screenshot_14-2-2025_1313_localhost.jpeg)
 ![](https://github.com/Pix3lPirate/portfolio.github.io/blob/110e8e10f4f7907cadbe238757b0d7b45c8f3b1a/Screenshot_14-2-2025_13126_localhost.jpeg)
